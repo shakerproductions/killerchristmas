@@ -808,6 +808,10 @@
 
 		}
 
+		.title {
+			height: 117px;
+		}
+
 /* Header */
 
 	#header {
