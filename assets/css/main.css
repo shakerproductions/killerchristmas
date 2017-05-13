@@ -1118,6 +1118,7 @@
 				background-repeat: no-repeat;
 				background-size: contain;
 				opacity: 0;
+				background-color: black;
 			}
 
 			#viewer .slide:before {
