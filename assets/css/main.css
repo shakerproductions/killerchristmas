@@ -571,8 +571,8 @@
 		}
 
 	.purchase-icon {
-		height: 29px;
-		width: 100px;
+		height: 29px !important;
+		width: 100px !important;
 	}
 
 /* List */
