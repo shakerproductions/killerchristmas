@@ -570,6 +570,11 @@
 			display: none;
 		}
 
+	.purchase-icon {
+		height: 29px;
+		width: 100px;
+	}
+
 /* List */
 
 	ol {
